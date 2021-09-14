@@ -1,6 +1,8 @@
 # Getting Started with Create React App
+### React Typescipt with Sass(Dart)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
